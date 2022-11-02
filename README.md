@@ -31,7 +31,7 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 - solicitar el tiempo que lleva trabajando en la empresa
 - se hace sentencia if de acuerdo  a los años que ha trabajado para sacar su isr
 - salida:
-~~
+~~~
 +-------------------------------------------------------------------------------+
 |la empresa es cdmx                                                             |
 | el nombre del empleado es ioannes melgarejo torres                            |
@@ -43,5 +43,5 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 |                                                                               |
 |                                                                               |
 +-------------------------------------------------------------------------------+
-~~
+~~~
  
