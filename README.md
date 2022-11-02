@@ -44,4 +44,6 @@ Realizar el cálculo respectivo del ISR sobre el sueldo bruto acorde a la siguie
 |                                                                               |
 +-------------------------------------------------------------------------------+
 ~~~
+## etapa 3:
+![](https://github.com/MelgarejoTorresIoannesIxca/T316/blob/main/T3A6.png)
  
