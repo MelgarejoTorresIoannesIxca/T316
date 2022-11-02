@@ -1,4 +1,4 @@
-# T316
+# T3A6
 T3A6
 ## etapa1=
 Utiliza la metodología de las 6D y el paradigma de la Programación Orientada a Objetos para resolver el siguiente enunciado:
